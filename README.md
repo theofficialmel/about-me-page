@@ -1,7 +1,7 @@
 # about-me-page
 
 ## description
-My name is jamel i am 21 year old trying to get my development certifacation.and one of my favorite links is github.
+My name is jamel i am 24 year old trying to get my development certifacation.and one of my favorite links is github.
 my hobbie is gaming i like being alone and playing video games.
 ## Author
 jamel murray - [Github profile](https://github.com/theofficialmel/about-me-page.git)
@@ -15,3 +15,9 @@ jamel murray - [Github profile](https://github.com/theofficialmel/about-me-page.
 
 ## Technologies used
 - HTML
+-git
+-github
+
+## resources used
+
+## acknowlogements 
